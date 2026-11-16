@@ -1,0 +1,5 @@
+# copperSynth python dependencies
+pyFluidSynth
+mido
+python-rtmidi
+dearpygui
